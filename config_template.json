@@ -1,0 +1,8 @@
+{
+    "excel_path": "./TK-MK-EVN_template.xlsx",
+    "folder_path": "./",
+    "pdf_path": "./Hoadon/HoaDon_Tong",
+    "save_pdf_path": "./Hoadon",
+    "confidence_threshold": 80.0,
+    "model_type": "Premium"
+}
