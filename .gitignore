@@ -1,0 +1,24 @@
+.agent
+__pycache__/
+build/
+dist/
+.vscode/
+.gemini/
+.venv/
+.venv_standard/
+config.json
+Hoadon/
+*.png
+*.zip
+*.rar
+*.spec
+*.exe
+debug_page_*.html
+captcha_debug/
+models/
+
+# Chặn toàn bộ các file Excel chứa dữ liệu thật, chỉ giữ file mẫu mẫu
+*.xlsx
+!TK-MK-EVN_template.xlsx
+!Mapping_template.xlsx
+!config_template.json
